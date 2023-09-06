@@ -1,0 +1,4 @@
+[ 2023-04-24 09:00:24,729 ] 224 werkzeug -WARNING -  * Debugger is active!
+[ 2023-04-24 09:00:24,733 ] 224 werkzeug -INFO -  * Debugger PIN: 750-058-143
+[ 2023-04-24 09:00:29,221 ] 224 werkzeug -INFO - 127.0.0.1 - - [24/Apr/2023 09:00:29] "GET / HTTP/1.1" 200 -
+[ 2023-04-24 09:01:56,402 ] 224 werkzeug -INFO -  * Detected change in 'h:\\projects under local ides\\endtoendml\\app.py', reloading

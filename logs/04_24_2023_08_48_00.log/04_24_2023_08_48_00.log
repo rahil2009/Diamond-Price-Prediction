@@ -1,0 +1,4 @@
+[ 2023-04-24 08:48:02,686 ] 224 werkzeug -WARNING -  * Debugger is active!
+[ 2023-04-24 08:48:02,715 ] 224 werkzeug -INFO -  * Debugger PIN: 750-058-143
+[ 2023-04-24 08:58:11,382 ] 224 werkzeug -INFO - 127.0.0.1 - - [24/Apr/2023 08:58:11] "GET / HTTP/1.1" 200 -
+[ 2023-04-24 08:58:12,695 ] 224 werkzeug -INFO - 127.0.0.1 - - [24/Apr/2023 08:58:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

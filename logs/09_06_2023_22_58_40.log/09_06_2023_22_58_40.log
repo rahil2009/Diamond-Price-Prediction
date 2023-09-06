@@ -1,0 +1,60 @@
+[ 2023-09-06 22:58:41,527 ] 187 werkzeug -WARNING -  * Debugger is active!
+[ 2023-09-06 22:58:41,534 ] 187 werkzeug -INFO -  * Debugger PIN: 101-153-069
+[ 2023-09-06 22:58:52,219 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 22:58:52] "GET / HTTP/1.1" 200 -
+[ 2023-09-06 22:58:52,460 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 22:58:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-09-06 22:59:17,278 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 22:59:17] "GET /predict HTTP/1.1" 200 -
+[ 2023-09-06 22:59:45,679 ] 67 root -INFO - Dataframe Gathered
+[ 2023-09-06 22:59:45,679 ] 55 root -INFO - Exception Occured in load_object function utils
+[ 2023-09-06 22:59:45,680 ] 28 root -INFO - Exception occured in prediction
+[ 2023-09-06 22:59:45,693 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 22:59:45] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-09-06 22:59:46,002 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 22:59:46] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-09-06 22:59:46,024 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 22:59:46] "GET /?__debugger__=yes&cmd=resource&f=more.png HTTP/1.1" 200 -
+[ 2023-09-06 22:59:46,024 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 22:59:46] "GET /?__debugger__=yes&cmd=resource&f=less.png HTTP/1.1" 200 -
+[ 2023-09-06 22:59:46,048 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 22:59:46] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-09-06 22:59:46,084 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 22:59:46] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-09-06 22:59:46,096 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 22:59:46] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-06 22:59:53,856 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 22:59:53] "GET /predict HTTP/1.1" 200 -
+[ 2023-09-06 23:00:08,960 ] 67 root -INFO - Dataframe Gathered
+[ 2023-09-06 23:00:08,960 ] 55 root -INFO - Exception Occured in load_object function utils
+[ 2023-09-06 23:00:08,960 ] 28 root -INFO - Exception occured in prediction
+[ 2023-09-06 23:00:08,972 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:08] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-09-06 23:00:08,984 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:08] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:00:08,984 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:08] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:00:09,006 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:09] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:00:09,025 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:09] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:00:12,510 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:12] "GET /predict HTTP/1.1" 200 -
+[ 2023-09-06 23:00:23,411 ] 67 root -INFO - Dataframe Gathered
+[ 2023-09-06 23:00:23,411 ] 55 root -INFO - Exception Occured in load_object function utils
+[ 2023-09-06 23:00:23,411 ] 28 root -INFO - Exception occured in prediction
+[ 2023-09-06 23:00:23,423 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:23] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-09-06 23:00:23,434 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:23] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:00:23,435 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:23] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:00:23,461 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:23] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:00:23,478 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:23] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:00:29,567 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:29] "GET /predict HTTP/1.1" 200 -
+[ 2023-09-06 23:00:42,218 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:42] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-09-06 23:00:42,231 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:42] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:00:42,232 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:42] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:00:42,252 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:42] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:00:42,273 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:42] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:00:46,818 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:46] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-09-06 23:00:46,830 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:46] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:00:46,832 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:46] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:00:46,854 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:46] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:00:46,865 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:00:46] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:01:05,201 ] 67 root -INFO - Dataframe Gathered
+[ 2023-09-06 23:01:05,201 ] 55 root -INFO - Exception Occured in load_object function utils
+[ 2023-09-06 23:01:05,201 ] 28 root -INFO - Exception occured in prediction
+[ 2023-09-06 23:01:05,225 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:01:05] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-09-06 23:01:05,237 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:01:05] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:01:05,239 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:01:05] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:01:05,257 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:01:05] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:01:05,280 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:01:05] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:01:09,285 ] 67 root -INFO - Dataframe Gathered
+[ 2023-09-06 23:01:09,285 ] 55 root -INFO - Exception Occured in load_object function utils
+[ 2023-09-06 23:01:09,285 ] 28 root -INFO - Exception occured in prediction
+[ 2023-09-06 23:01:09,301 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:01:09] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-09-06 23:01:09,313 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:01:09] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:01:09,314 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:01:09] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:01:09,341 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:01:09] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-09-06 23:01:09,356 ] 187 werkzeug -INFO - 127.0.0.1 - - [06/Sep/2023 23:01:09] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
